@@ -1,3 +1,3 @@
 # Laracom
 
-Laracom is an invite only community for Laravel hobbiests & professionals.
+Laracom is an invite only community for Laravel hobbyists & professionals.
